@@ -1,2 +1,0 @@
-# metabnbs.github.io
-metabnbs
